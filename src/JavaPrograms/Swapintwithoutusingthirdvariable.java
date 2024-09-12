@@ -11,7 +11,7 @@ public class Swapintwithoutusingthirdvariable {
        a=a-b;
        System.out.println("Value of a is::"+a);
        System.out.println("Value of b is::"+b);
-		
+
 	}
 
 }
