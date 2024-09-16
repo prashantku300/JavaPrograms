@@ -47,5 +47,4 @@ public class StarPatternTringle {
 			System.out.println();
 		}
 	}
-
 }
