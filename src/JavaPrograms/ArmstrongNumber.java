@@ -18,7 +18,7 @@ public class ArmstrongNumber {
 			cube=cube+(r*r*r);
 		}
 		if (t==cube) {
-			System.out.println("This numbewr is ArmStrog");
+			System.out.println("This number is ArmStrog");
 		}
 		else {
 			System.out.println("This number is not ArmStrong");
