@@ -32,7 +32,7 @@ public class manipulationstring {
 	    // Split method
 	    
 	    String test= "Hello_world_we_are_here";
-	    String test1[]=test.split("_");
+	    String test1[]=test.split(" ");
 	    for(int i=0;i<test1.length; i++)
 	    {
 	    System.out.println(test1[i]);
