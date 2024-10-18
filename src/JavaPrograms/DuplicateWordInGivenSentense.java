@@ -22,18 +22,12 @@ public class DuplicateWordInGivenSentense {
 						NewString.put(s2, 1);
 				}
 			}
-		     
 		     System.out.println("Duplicate words");
 		     for(Map.Entry<String, Integer> entry : NewString.entrySet()) {
 		    	 if(entry.getValue()>1) {
 		    		 System.out.println(entry.getKey() + "::"+ entry.getValue() + "Times");
 		    	 }
 		}
-		
-		
-		
-		
-		
          	}
 	}
 

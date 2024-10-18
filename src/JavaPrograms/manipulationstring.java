@@ -37,7 +37,7 @@ public class manipulationstring {
 	    {
 	    System.out.println(test1[i]);
      	}
-	     // concat
+	     // concate
 	    String s4= "Prashan";
 	    System.out.println(s4.concat("t"));
 
